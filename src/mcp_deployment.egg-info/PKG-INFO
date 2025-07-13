@@ -5,3 +5,7 @@ Summary: Add your description here
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 Requires-Dist: mcp[cli]>=1.11.0
+
+```
+uvx --from git+https://github.com/manan-dude/mcp_server.git mcp_server
+```
